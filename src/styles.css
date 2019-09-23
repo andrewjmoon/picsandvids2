@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-decoration: none;
+  text-align: center;
+  color: white;
+}
+html {
+  background-color: lightslategrey;
+}
+.Link {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
